@@ -22,6 +22,7 @@ i build whatsapp bots and little tools. everything from my phone, no computer.
 
 - **[baileys-buttons](https://www.npmjs.com/package/baileys-buttons)** — interactive buttons helper for Baileys (quick replies, lists, menus)
 - **[baileys-easy](https://github.com/meowguck-art/baileys-easy)** — the easy layer on top of Baileys
+- **[whatsapp-agent-bot](https://github.com/meowguck-art/whatsapp-agent-bot)** — modular WhatsApp bot: games, media tools, reminders, Gemini AI (Hebrew + English)
 - **[site](https://meowguck-art.github.io)** — minimal page, that's it
 
 ### stats
